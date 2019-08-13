@@ -1,5 +1,5 @@
 # Todo Application
-This is a simple Todo application built with and React.
+This is a simple Todo application built with Django and React.
 
 # App Features
 
